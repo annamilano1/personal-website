@@ -60,6 +60,9 @@ html {
   border-left: 6px solid black;
   border-right: 6px solid black;
 }
+.card-body{
+  margin-bottom: 10px;
+}
 /*footer*/
 footer {
   
